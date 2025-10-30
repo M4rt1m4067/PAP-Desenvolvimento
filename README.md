@@ -1,4 +1,5 @@
-# PAP-Cave Crawler
+# PAP
+# Cave Crawler
 Um jogo 2D Sidescroller e Roguelike onde o jogador explora cavernas geradas aleatoriamente para encontrar artefactos que o fazem ficar mais forte.
 ## Principais funcionalidades
  - Mapas gerados aleatoriamente.
